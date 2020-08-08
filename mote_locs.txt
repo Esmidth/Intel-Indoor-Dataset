@@ -1,3 +1,4 @@
+moteid x_location y_location
 1 21.5 23
 2 24.5 20
 3 19.5 19
